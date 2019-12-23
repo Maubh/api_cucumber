@@ -1,4 +1,4 @@
-# Projeto de teste automatizado em API com Ruby + Cucumber
+# Automatizando API com Ruby + Cucumber
 
 Cenários propostos:
 
