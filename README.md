@@ -1,6 +1,6 @@
-# Projeto de teste automatizado em API com Ruby + Cucumber + HTTParty
+# Projeto de teste automatizado em API com Ruby + Cucumber
 
-Escopo do projeto:
+Cenários propostos:
 
 1. Criar uma funcionalidade para consultar os dados de um endereço a partir de um CEP;
 2. Criar um cenário de sucesso na consulta, printando o código do IBGE do endereço no stdout;
@@ -8,15 +8,15 @@ Escopo do projeto:
 
 ## Início
 
-Ao seguir este passo a passo será possível executar o teste de todos os cenários levantados
+Ao seguir este passo a passo será possível executar o teste de todos os cenários levantados.
 
 ### Pré-Requisitos
 
-- Instalar o Ruby (verificar se possui a versão mais recente);
+- Instalar o Ruby (verificar se possui a versão mais recente).
 
 ### Instalação
 
-1. Para instalar as dependências listadas no arquivo Gemfile, execute o comando abaixo:
+- Para instalar as dependências listadas no arquivo Gemfile, execute o comando abaixo:
 
 ```
 bundle install
